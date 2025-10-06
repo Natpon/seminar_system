@@ -1,0 +1,12 @@
+username,password,role
+admin,1234,Admin 
+admin2,abcd,Admin 
+organizer1,pass123,Organizer
+organizer2,org456,Organizer
+speaker1,speakme,Speaker
+speaker2,speaknow,Speaker
+participant1,join123,Participant
+participant2,hello456,Participant
+participant3,welcome789,Participant
+viewer1,guest,Viewer
+viewer2,lookonly,Viewer

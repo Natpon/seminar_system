@@ -1,0 +1,6 @@
+Room,StartTime,EndTime,SeminarName,SeminarDate,Participants,Speaker
+Room A,09:00,11:00,AI Basics,2025-10-10,30,Dr. Smith
+Room B,11:30,13:00,Cybersecurity 101,2025-10-10,25,Ms. Johnson
+Room C,09:00,10:30,Data Science Intro,2025-10-10,40,Prof. Lee
+Room D,10:45,12:15,Cloud Computing,2025-10-10,20,Mr. Brown
+Room E,13:00,15:00,Machine Learning,2025-10-10,35,Dr. White
